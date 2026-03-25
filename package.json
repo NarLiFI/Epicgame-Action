@@ -57,5 +57,8 @@
         "colors": "^1.4.0",
         "epicgames-client": "Revadike/node-epicgames-client#develop",
         "tracer": "^1.0.3"
+    },
+    "overrides": {
+        "undici": "^6.19.0"
     }
 }
